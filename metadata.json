@@ -1,0 +1,8 @@
+{
+  "name": "MyPublisher",
+  "description": "Professional Reddit Publisher dashboard for preparing, auditing, scheduling, and publishing Reddit content through compliant Devvit functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
